@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1632588886 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arreglosPunto1.h"
+	"arregloPunto2.h"
+	"arregloPunto3.h"
+	"arregloPunto4.h"
+	"arregloPunto5.h"
+
+1629585935 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglospunto1.h
+
+1632587350 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto1.c
+	<stdio.h>
+	<stdlib.h>
+	"arreglosPunto1.h"
+	<conio.h>
+
+1632588929 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto2.c
+	<stdio.h>
+	<stdlib.h>
+	"arregloPunto2.h"
+	<conio.h>
+	<strings.h>
+
+1632588929 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto2.h
+
+1632443173 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto3.c
+	<stdio.h>
+	<stdlib.h>
+	"arregloPunto3.h"
+	<conio.h>
+	<strings.h>
+
+1632437168 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto3.h
+
+1632443068 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto4.h
+
+1632445982 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto4.c
+	<stdio.h>
+	<stdlib.h>
+	"arregloPunto4.h"
+	<conio.h>
+	<strings.h>
+
+1632583803 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto5.h
+
+1632583803 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº1\arreglopunto5.c
+	<stdio.h>
+	<stdlib.h>
+	"arregloPunto5.h"
+	"arregloPunto4.h"
+	<conio.h>
+	<strings.h>
+

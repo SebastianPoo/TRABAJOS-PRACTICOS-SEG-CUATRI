@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1634405223 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp n°4.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Listas.h"
+
+1633729328 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp n°4.3\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1633562998 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp n°4.3\persona.h
+
+1634087910 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp n°4.3\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1634085497 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp n°4.3\listas.h
+	"persona.h"
+

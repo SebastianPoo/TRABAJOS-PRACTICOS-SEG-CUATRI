@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1634677288 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tpº2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1632781048 e:\sebastian\utn\programacion\codigos -2ºcuatri\tpº2\punto1.h
+
+1632782103 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tpº2\punto1.c
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	"PUNTO1.h"
+
+1633729328 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tpº2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1634502886 e:\sebastian\utn\programacion\codigos -2ºcuatri\tpº2\persona.h
+

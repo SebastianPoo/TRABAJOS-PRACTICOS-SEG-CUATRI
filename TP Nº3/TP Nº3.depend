@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1632789050 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto7.c
+	<stdio.h>
+	<stdlib.h>
+	"recursionPunto7.h"
+	<conio.h>
+	<strings.h>
+
+1632786999 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto7.h
+
+1633714616 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1630251788 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto6.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"recursionPunto6.h"
+
+1630249583 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto6.h
+
+1633708048 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto5.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"recursionPunto5.h"
+
+1630262562 e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto5.h
+
+1633714533 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\tp nº3\recursionpunto8.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

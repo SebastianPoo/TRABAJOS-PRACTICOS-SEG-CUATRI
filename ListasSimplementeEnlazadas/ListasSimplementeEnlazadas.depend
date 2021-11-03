@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1634564342 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LISTAS-SIMPLES.h"
+	"pila_lista.h"
+
+1633729328 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1634502886 e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\persona.h
+
+1634564442 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\listas-simples.c
+	<stdio.h>
+	<stdlib.h>
+	"LISTAS-SIMPLES.h"
+
+1634562951 e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\listas-simples.h
+	"persona.h"
+
+1634558734 source:e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\pila_lista.c
+	"pila_lista.h"
+
+1634558733 e:\sebastian\utn\programacion\codigos -2ºcuatri\listassimplementeenlazadas\pila_lista.h
+	<stdio.h>
+	<malloc.h>
+	"persona.h"
+	"LISTAS-SIMPLES.h"
+
